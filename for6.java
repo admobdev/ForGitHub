@@ -1,0 +1,2 @@
+public class for6 {
+}
